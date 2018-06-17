@@ -1,0 +1,18 @@
+﻿{
+    "fonts.fontSize": "12px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "background-img.type": "pronama",
+    "linting.collapsed": false,
+    "themes.themeScrollbars": true,
+    "linting.JSLint.collapsed": false,
+    "brackets-icons.iconset": "devicons",
+    "linting.prefer": [
+        "JSHint",
+        "Luacheck"
+    ],
+    "linting.usePreferredOnly": true,
+    "gtTab.showTabs": false,
+    "brackets-working-file-tabs.enabled": false,
+    "debug.showErrorsInStatusBar": false,
+    "useTabChar": false
+}
